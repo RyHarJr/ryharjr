@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nrX9nDQL0Bt/giphy.gif" width="100"/>
+  <img src="https://i.pinimg.com/736x/7c/80/eb/7c80eb7a7aacd359ccbd678fbca6a565.jpg" width="100"/>
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan sering gunakan:
 **Database:**
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://github.com/typicode/lowdb" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/npm/node-logo/master/npm-logo-text.svg" alt="lowdb" width="40" height="40"/> </a> </p>
+</p>
 
 **Tools & Platform:**
 <p align="left">
@@ -55,25 +55,9 @@ Berikut adalah beberapa teknologi dan alat yang saya kuasai dan sering gunakan:
     <img src="https://github-readme-stats.vercel.app/api?username=RyharJr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyharJr&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyharJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
 </div>
-
----
-
-### Proyek Terpilih
-
-Meskipun masih di semester awal, saya sudah mulai bereksperimen dengan berbagai proyek. Beberapa di antaranya:
-
-* **[Nama Proyek Anda 1]**: [Deskripsi singkat proyek ini. Contoh: "Aplikasi daftar tugas sederhana menggunakan Next.js dan LowDB untuk manajemen data lokal."]
-    * [Link ke Repositori Proyek 1](https://github.com/RyharJr/[nama-repo-proyek-1])
-* **[Nama Proyek Anda 2]**: [Deskripsi singkat proyek ini. Contoh: "Backend REST API untuk e-commerce sederhana dengan Node.js dan MongoDB."]
-    * [Link ke Repositori Proyek 2](https://github.com/RyharJr/[nama-repo-proyek-2])
-* **[Nama Proyek Anda 3]**: [Deskripsi singkat proyek ini. Contoh: "Script Python untuk otomasi pengolahan data sederhana."]
-    * [Link ke Repositori Proyek 3](https://github.com/RyharJr/[nama-repo-proyek-3])
 
 ---
 
@@ -81,8 +65,8 @@ Meskipun masih di semester awal, saya sudah mulai bereksperimen dengan berbagai 
 
 Tertarik untuk berdiskusi tentang web programming, berkolaborasi dalam proyek, atau sekadar menyapa? Jangan ragu untuk menghubungi saya!
 
-* **LinkedIn**: [Link Profil LinkedIn Anda] (Sangat disarankan untuk membuat jika belum ada!)
-* **Email**: [Alamat Email Anda]
+* **LinkedIn**: https://www.linkedin.com/in/rizkihartawan/
+* **Email**: ryharofficial@gmail.com
 
 ---
 
