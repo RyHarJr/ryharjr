@@ -16,19 +16,6 @@ Saya selalu bersemangat untuk belajar hal baru, berkolaborasi dalam proyek-proye
 
 ---
 
-### Statistik GitHub Saya
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=RyharJr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyharJr&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ### Hubungi Saya
 
 Tertarik untuk berdiskusi tentang web programming, berkolaborasi dalam proyek, atau sekadar menyapa? Jangan ragu untuk menghubungi saya!
