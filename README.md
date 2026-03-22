@@ -10,7 +10,7 @@
 
 ### Tentang Saya
 
-Saya adalah seorang **mahasiswa Sistem Informasi semester 2** dengan antusiasme tinggi di bidang **web programming**. Saya sangat tertarik dalam membangun aplikasi web yang efisien dan interaktif. Di sini, Anda akan menemukan berbagai proyek yang saya kerjakan selama perjalanan saya belajar, mulai dari latihan dasar hingga proyek yang lebih kompleks dan ui yang keren.
+Saya adalah seorang **mahasiswa Sistem Informasi semester 2** dengan antusiasme tinggi di bidang **website programming**. Saya sangat tertarik dalam membangun aplikasi web yang efisien dan interaktif. Di sini, Anda akan menemukan berbagai proyek yang saya kerjakan selama perjalanan saya belajar, mulai dari latihan dasar hingga proyek yang lebih kompleks dan ui yang keren.
 
 Saya selalu bersemangat untuk belajar hal baru, berkolaborasi dalam proyek-proyek menarik, dan berkontribusi pada komunitas developer.
 
