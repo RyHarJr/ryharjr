@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/1200x/15/a2/e8/15a2e809acac945fde0bfe9046bb0312.jpg"/>
-</div>
 
 <div align="center">
   <h1>Halo, Saya Ahmad Rizki Hartawan 👋</h1>
