@@ -6,15 +6,9 @@
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- ABOUT ME                                    -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ ABOUT ME ══════════════════════════════════════ -->
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
-
-<table>
-<tr>
-<td>
 
 ```yaml
 name: Ahmad Rizki Hartawan
@@ -26,13 +20,7 @@ currently_learning: Next.js, TypeScript, System Architecture
 fun_fact: I turn coffee into code ☕ → 💻
 ```
 
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════ -->
-<!-- CONNECT                                     -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ CONNECT ══════════════════════════════════════ -->
 
 <h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; Connect With Me</h2>
 
@@ -49,14 +37,11 @@ fun_fact: I turn coffee into code ☕ → 💻
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />
-  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/RyHarJr?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
 </p>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- TECH STACK                                  -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -93,9 +78,7 @@ fun_fact: I turn coffee into code ☕ → 💻
 </table>
 </div>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- GITHUB STATS                                -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ GITHUB STATS ══════════════════════════════════════ -->
 
 <h2>📊 GitHub Statistics</h2>
 
@@ -109,9 +92,7 @@ fun_fact: I turn coffee into code ☕ → 💻
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyHarJr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" />
 </p>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- CONTRIBUTION GRAPH                          -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ CONTRIBUTION GRAPH ══════════════════════════════════════ -->
 
 <h2>📈 Contribution Graph</h2>
 
@@ -121,9 +102,7 @@ fun_fact: I turn coffee into code ☕ → 💻
   </a>
 </p>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- SNAKE                                       -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ SNAKE ══════════════════════════════════════ -->
 
 <h2>🐍 Contribution Snake</h2>
 
@@ -131,18 +110,17 @@ fun_fact: I turn coffee into code ☕ → 💻
   <img src="https://raw.githubusercontent.com/RyHarJr/RyHarJr/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
 </p>
 
-<!-- ═══════════════════════════════════════════ -->
-<!-- QUOTE                                       -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════ QUOTE ══════════════════════════════════════ -->
 
-<div align="center">
+<hr>
 
----
-
-### 💬 Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
+<p align="center">
+  <h3 align="center">💬 Random Dev Quote</h3>
+</p>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=100&section=footer" width="100%" />
