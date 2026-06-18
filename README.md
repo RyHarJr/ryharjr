@@ -114,9 +114,8 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 <hr>
 
-<p align="center">
-  <h3 align="center">💬 Random Dev Quote</h3>
-</p>
+<h3 align="center">💬 Random Dev Quote</h3>
+
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
