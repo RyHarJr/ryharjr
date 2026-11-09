@@ -31,48 +31,6 @@ identity:
     - Bot Services & Automation (WhatsApp Engines, API Integrations)
 ```
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>What I Do</h4>
-      <ul>
-        <li><b>Full-Stack Development:</b> Building end-to-end applications using Next.js, React, Node.js, and TypeScript.</li>
-        <li><b>Backend & APIs:</b> Designing RESTful APIs, database schemas, and integration services.</li>
-        <li><b>Automation:</b> Creating messaging automations, WhatsApp services, and developer tooling.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>Current Focus</h4>
-      <ul>
-        <li>Deepening knowledge in system design and microservices architecture.</li>
-        <li>Mastering advanced performance optimizations in Next.js App Router and TypeScript.</li>
-        <li>Building maintainable, production-ready software solutions.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## Featured Projects
-
-<div align="center">
-  <a href="https://github.com/RyHarJr/panel-store">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=panel-store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Panel Store" width="48%" />
-  </a>
-  <a href="https://github.com/RyHarJr/wa-sticker-js">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=wa-sticker-js&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="WhatsApp Sticker Bot" width="48%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/RyHarJr/node_characterai">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=node_characterai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Node Character AI" width="48%" />
-  </a>
-  <a href="https://github.com/RyHarJr/loveletter-app">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=loveletter-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Love Letter App" width="48%" />
-  </a>
-</div>
-
 ---
 
 ## Tech Stack
@@ -103,14 +61,10 @@ identity:
 
 ## GitHub Metrics
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=RyHarJr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=RyHarJr&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RyHarJr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RyHarJr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9&card_width=495" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=RyHarJr&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
 
