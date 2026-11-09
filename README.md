@@ -21,6 +21,7 @@
 identity:
   name: Ahmad Rizki Hartawan
   role: Full-Stack Web Developer
+  portfolio: https://ryhar.my.id
   education:
     major: Sistem Informasi
     institution: Universitas Multi Data Palembang
@@ -30,6 +31,22 @@ identity:
     - Backend Architecture & RESTful APIs (Node.js, Express, Prisma)
     - Bot Services & Automation (WhatsApp Engines, API Integrations)
 ```
+
+---
+
+## Live Deployments
+
+<p align="center">
+  <a href="https://ryhar.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ryhar.my.id-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://ryhar-panel.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/Store_Panel-ryhar--panel.my.id-0284c7?style=for-the-badge&logo=serverfault&logoColor=white" alt="Store Panel" />
+  </a>&nbsp;&nbsp;
+  <a href="https://jadibotwa.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp_Bot-jadibotwa.xyz-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
+  </a>
+</p>
 
 ---
 
