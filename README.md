@@ -1,124 +1,149 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=180&text=Hi,%20I'm%20Rizki%20Hartawan&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20WhatsApp%20Bot%20Enthusiast&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=200&text=Hi,%20I'm%20Rizki%20Hartawan&fontSize=42&fontColor=f0f6fc&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20WhatsApp%20Bot%20Architect&descSize=18&descAlignY=62&descColor=7dd3fc&section=header" width="100%" />
 
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=500&lines=Mahasiswa+Sistem+Informasi+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%9A%80;WhatsApp+Bot+Builder+%F0%9F%A4%96;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;WhatsApp+Bot+%26+Automation+Builder+%F0%9F%A4%96;Information+Systems+Student+%40+UMDP+%F0%9F%8E%93;Next.js+%26+TypeScript+Enthusiast+%E2%9A%A1;Crafting+Scalable+Modern+Solutions+%E2%9C%A8" alt="Typing SVG" />
   </a>
-</p>
 
-<!-- ══════════════════════════════════════ ABOUT ME ══════════════════════════════════════ -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Building_%26_Learning-0ea5e9?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Indonesia_%F0%9F%87%AE%F0%9F%87%A9-161b22?style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/RyHarJr?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
+  </p>
+</div>
 
-<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
+---
+
+### 👨‍💻 About Me
 
 ```yaml
-name: Ahmad Rizki Hartawan
-location: Indonesia 🇮🇩
-education: Sistem Informasi | Universitas Multi Data Palembang
-semester: 4
-focus: Full-Stack Web Development & WhatsApp Bot
-currently_learning: Next.js, TypeScript, System Architecture
-fun_fact: I turn coffee into code ☕ → 💻
+identity:
+  name: Ahmad Rizki Hartawan
+  role: Full-Stack Web Developer & Automation Engineer
+  education:
+    major: Sistem Informasi
+    institution: Universitas Multi Data Palembang
+    status: Undergraduate Student
+  focus_areas:
+    - High-Performance Web Applications (Next.js, React, TypeScript)
+    - Backend Architecture & RESTful APIs (Node.js, Express, Prisma)
+    - Automated Bots & Messaging Solutions (WhatsApp Multi-Device Engines)
+  motto: "Turn coffee into clean, reliable, and scalable code ☕ → 💻"
 ```
 
-<!-- ══════════════════════════════════════ CONNECT ══════════════════════════════════════ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 What I Do</h4>
+      <ul>
+        <li>🚀 <b>Full-Stack Development:</b> Architecting end-to-end web applications with Next.js, Express, and PostgreSQL/MySQL.</li>
+        <li>🤖 <b>Bot & Automation:</b> Developing WhatsApp bot automation, sticker engines, and API bridges.</li>
+        <li>⚡ <b>Clean Architecture:</b> Writing maintainable, type-safe code with modular service-repository patterns.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌱 Current Horizon</h4>
+      <ul>
+        <li>📚 Deepening knowledge in <b>System Design</b> and <b>Microservices Architecture</b>.</li>
+        <li>⚡ Mastering advanced performance optimizations in <b>Next.js App Router</b> & <b>TypeScript</b>.</li>
+        <li>🤝 Open to collaborations on innovative web apps and open-source tooling.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">&nbsp; Connect With Me</h2>
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/RyHarJr/panel-store">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=panel-store&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Panel Store" width="48%" />
+  </a>
+  <a href="https://github.com/RyHarJr/wa-sticker-js">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=wa-sticker-js&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="WhatsApp Sticker Bot" width="48%" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/RyHarJr/node_characterai">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=node_characterai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Node Character AI" width="48%" />
+  </a>
+  <a href="https://github.com/RyHarJr/loveletter-app">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=RyHarJr&repo=loveletter-app&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9" alt="Love Letter App" width="48%" />
+  </a>
+</div>
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+  <p><b>💻 Languages & Core</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,php&theme=dark" alt="Languages" />
+  </a>
+
+  <p><b>🎨 Frontend & UI Frameworks</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
+  </a>
+
+  <p><b>⚙️ Backend, Databases & APIs</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,postgres,mysql&theme=dark" alt="Backend & DB" />
+  </a>
+
+  <p><b>🔧 Tools, Cloud & Workflow</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel,npm&theme=dark" alt="Tools" />
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=RyHarJr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=RyHarJr&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<div align="center" style="margin-top: 10px;">
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=RyHarJr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RyHarJr/RyHarJr/output/github-snake-dark.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+---
+
+### 💬 Daily Dev Inspiration
+
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  </a>
+</div>
+
+---
+
+### 📬 Get In Touch
 
 <p align="center">
   <a href="mailto:ryharofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-ryharofficial@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rizkihartawan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rizki_Hartawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-Rizki_Hartawan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/RyHarJr">
-    <img src="https://img.shields.io/badge/GitHub-RyHarJr-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyHarJr&color=0ea5e9&label=Profile+Views&style=flat-square" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/RyHarJr?label=Followers&style=flat-square&color=0ea5e9&logo=github" />
-</p>
-
-<!-- ══════════════════════════════════════ TECH STACK ══════════════════════════════════════ -->
-
-<h2>🛠️ Tech Stack</h2>
-
-<div align="center">
-<table>
-<tr>
-  <td align="center" width="150"><b>💻 Core</b></td>
-  <td align="center" width="150"><b>🎨 Frontend</b></td>
-  <td align="center" width="150"><b>⚙️ Backend</b></td>
-  <td align="center" width="150"><b>🔧 Tools</b></td>
-</tr>
-<tr>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=html,css&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vite&theme=dark" />
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=express,laravel&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=prisma,php&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
-  </td>
-  <td align="center">
-    <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,postman&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=vercel,npm&theme=dark" />
-  </td>
-</tr>
-</table>
-</div>
-
-<!-- ══════════════════════════════════════ GITHUB STATS ══════════════════════════════════════ -->
-
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RyHarJr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
-  &nbsp;
-  <img width="48%" src="https://streak-stats.demolab.com?user=RyHarJr&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyHarJr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
-<!-- ══════════════════════════════════════ CONTRIBUTION GRAPH ══════════════════════════════════════ -->
-
-<h2>📈 Contribution Graph</h2>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyHarJr&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=7dd3fc&area=true&area_color=0ea5e9&hide_border=true" width="95%" alt="Activity Graph" />
-  </a>
-</p>
-
-<!-- ══════════════════════════════════════ SNAKE ══════════════════════════════════════ -->
-
-<h2>🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RyHarJr/RyHarJr/output/github-snake-dark.svg" alt="Snake animation" width="95%" />
-</p>
-
-<!-- ══════════════════════════════════════ QUOTE ══════════════════════════════════════ -->
-
-<hr>
-
-<h3 align="center">💬 Random Dev Quote</h3>
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+    <img src="https://img.shields.io/badge/GitHub-RyHarJr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
